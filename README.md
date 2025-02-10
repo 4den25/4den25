@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Truc</h1>
 <h3 align="center">A glum-chum but also a passionate developer from Vietnam</h3>
 
-- 🔭 I’m currently working on **UBT**
 
-- 🌱 I’m currently learning **Unity and .NET**
+- 🌱 I’m currently learning .NET**
 
 - 👨‍💻 All of my projects are available at [https://github.com/4den25](https://github.com/4den25)
 
